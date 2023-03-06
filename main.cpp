@@ -3,7 +3,11 @@
 #include <fstream>
 #include <windows.h>
 #include "../lib/hmColor.h"
-
+/*
+@author: Harryson Ariel Montesdeoca Rhea
+@Fecha: 03-06-2023
+@Detalles: Examen 2 Bimestre
+*/
 
 using namespace std;
 const int HMCEDULA =1722966650 ;  
@@ -63,5 +67,5 @@ int main()
 {
     hmLeerCoordenadas();
     hmInformacion();
-    cout << "Hello world!" << endl;
+    cout<<"\nhttps://github.com/ariSelepn/Examen2/blob/91f66940cea4180e7b7312e7b08a07f3d58b43dc/main.cpp\n";
 }
